@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Logs
+logs/
+*.log
+*.out
+*.pid
+*.seed
+*.gz
+
+# Build files
+dist/
+build/
+.next/
+out/
+coverage/
+
+# Editor/IDE files
+.vscode/
+.idea/
+.DS_Store
+
+# OS-specific files
+Thumbs.db
